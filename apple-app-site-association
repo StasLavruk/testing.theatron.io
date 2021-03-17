@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": "MJ5424TS3J.com.mifprojects.theatronapp",
+             "paths": ["*"]
+           }
+       ]
+   }
+}
