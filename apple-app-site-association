@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": "MJ5424TS3J.com.mifprojects.theatronapp",
+             "components": [
+               {
+                 "/": "/testing.theatron.io/*",
+                 "comment": "Matches any URL whose path starts with /buy/"
+               },
+             ]
+           }
+       ]
+   }
+}
